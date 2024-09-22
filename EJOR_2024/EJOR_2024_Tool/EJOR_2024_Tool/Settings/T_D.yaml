@@ -1,0 +1,51 @@
+scripts:
+  - run_2
+#
+#
+# Settings to compute a maximum s-club, MsC, on Trees.
+#
+# >>> Terminology:
+#
+#   - MsC:           maximum s-club, MsC,
+#   - Max-DsT:        our dynamic programming algorithm that finds an MsC on trees in polynomial time
+#   - Schafers:       our implementation of the Schäfer's algorithm.
+#   - diameters:      it is a list that stores one or more values of s; i.e., s ∊ diameters
+#
+#   - T = (V_T, E_T): a tree graph with set of vertices V_G and the set of edges E_G
+#   - v_{root}:       Consider one vertex of T as special; such a vertex is then called the root of T
+
+
+
+run_2:
+  #                                   >>> Input / Output settings <<<
+
+  benchmark_dir:      './Input/T_D'  # ...................................... Here we keep the input trees in GML format
+  output_logs_dir:    './Output/T_D'  # ..... Here we save TSV files with the results of the execution of the algorithms
+  merge_files:        True  # . When True, merges the output files in a single TSV file (it does not delete other files)
+  msc_log_name:      'Max-DsT'  # ... It's a prefix name, the output is prefix-results.tsv. It Saves the result of Max-DsT
+  s_club_log_name:    'Schäfer'  # . Similar to the option above, it saves the result of executing the Schäfers slgorithm
+
+
+  #                                         >>> Graph settings <<<
+
+  initial_root_node:  0  # .................................................................................... v_{root}
+
+
+  #                                       >>> Algorithm's settings <<<
+
+  diameters:          [4, 5]  # .......................................................................... s ∊ diameters
+  identify_vertices:  False # ............. Option set to False; for this test, we are interested in the wall-clock time
+
+
+  #             >>> Selection of implementations to run, time measurements, and additional information <<<
+
+  # Choose either True or False in the options below.
+
+  run_Max_DsT:        True  # ........................................................... When True, it executes Max-DsT
+  run_Schafers:       True  # ......................... When True, it runs our implementation of the Schäfer's algorithm
+  measure_time:       True  # ... When True, it measures the time to compute an MsC on the above selected algorithms
+  verbose:            False   # Shows on the command-line interpreter information related to the time required to read
+                              # the input graph, transform it into the tree that we need to run the algorithms, etc.
+                              # This option is recommended to be set to True only for 'big' trees; otherwise, the
+                              # command-line interpreter will be saturated with a lot of information.
+

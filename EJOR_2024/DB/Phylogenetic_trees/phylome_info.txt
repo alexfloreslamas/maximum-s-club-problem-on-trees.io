@@ -1,0 +1,76 @@
+Phylome Id:             	3
+Phylome Name:           	Yeast phylome (P60)
+Seed Species:           	Saccharomyces cerevisiae
+Seed Taxa Id:           	4932
+Seed Proteome:          	YEAST.2
+Creation date:          	2008-02-27
+Comments:               	S. cerevisiae phylome made from 60 completely sequenced fungal species
+-----
+Longest isoforms:       	6634
+Seed proteins with aligments:	5902	(88.97%)
+Seed proteins with trees:	5722	(86.25%)
+-----
+TaxaID 	Proteome	Date      	Longest 	Source          	Species Name
+-----
+3702   	ARATH.1 	2006-06-01	35552   	integr8         	Arabidopsis thaliana
+4754   	PNECA.1 	2007-04-01	4017    	Fungal_Genomes  	Pneumocystis carinii
+4837   	PHYBL.1 	2007-04-01	14664   	JGI             	Phycomyces blakesleeanus
+4897   	SCHJP.1 	2007-04-01	5122    	Broad_Institute 	Schizosaccharomyces japonicus
+4914   	KLUWA.1 	2007-04-01	5198    	YGOB            	Kluyveromyces waltii
+4924   	PICST.1 	2007-04-01	5821    	JGI             	Pichia stipitis
+4929   	PICGU.1 	2007-04-01	5919    	Broad_Institute 	Pichia guilliermondii
+4931   	SACBA.1 	2007-04-01	5842    	YGOB            	Saccharomyces bayanus
+4932   	YEAST.2 	2007-04-01	6634    	SGD             	Saccharomyces cerevisiae
+4934   	SACKL.1 	2007-04-01	5759    	Fungal_Genomes  	Saccharomyces kluyveri
+4952   	YARLI.1 	2006-06-01	6525    	integr8         	Yarrowia lipolytica
+4959   	DEBHA.1 	2006-06-01	6311    	integr8         	Debaryomyces hansenii
+5037   	AJECA.1 	2007-04-01	9277    	Broad_Institute 	Ajellomyces capsulata
+5057   	ASPCL.1 	2007-04-01	9124    	TIGR            	Aspergillus clavatus
+5059   	ASPFL.1 	2007-11-01	12587   	Broad_Institute 	Aspergillus flavus
+5061   	ASPNG.1 	2007-11-01	13906   	Broad_Institute 	Aspergillus niger
+5062   	ASPOR.1 	2007-04-01	12054   	Integr8         	Aspergillus oryzae
+5141   	NEUCR.1 	2006-06-01	10645   	other           	Neurospora crassa
+5145   	PODAN.1 	2007-04-01	12915   	Fungal_Genomes  	Podospora anserina
+5180   	SCLSC.1 	2007-04-01	14466   	Broad_Institute 	Sclerotinia sclerotiorum
+5207   	CRYNE.1 	2006-06-01	6572    	integr8         	Cryptococcus neoformans
+5270   	USTMA.1 	2007-04-01	6544    	Broad_Institute 	Ustilago maydis
+5297   	PUCGR.1 	2007-11-01	20437   	Broad_Institute 	Puccinia graminis
+5306   	PHACH.1 	2007-11-01	9996    	JGI             	Phanerochaete chrysosporium
+5346   	COPCI.1 	2007-04-01	13514   	Broad_Institute 	Coprinopsis cinerea
+5476   	CANAL.2 	2007-11-01	6101    	Candida_Genome_Datab	Candida albicans
+5478   	CANGA.2 	2007-11-01	5201    	Genolevures     	Candida glabrata
+5482   	CANTR.1 	2007-04-01	6230    	Broad_Institute 	Candida tropicalis
+5501   	COCIM.1 	2007-04-01	10450   	Broad_Institute 	Coccidioides immitis
+5507   	FUSOX.1 	2007-04-01	16553   	Broad_Institute 	Fusarium oxysporum
+5518   	GIBZE.1 	2006-06-01	11638   	integr8         	Gibberella zeae
+6035   	ENCCU.1 	2006-06-01	1909    	integr8         	Encephalitozoon cuniculi
+9606   	HUMAN.1 	2006-06-01	21926   	ensembl         	Homo sapiens
+27288  	SACCA.1 	2007-04-01	5666    	SGD             	Saccharomyces castellii
+27291  	SACPA.1 	2007-04-01	5593    	Fungal_Genomes  	Saccharomyces paradoxus
+28985  	KLULA.2 	2007-04-01	5317    	NCBI            	Kluyveromyces lactis
+29883  	LACBI.1 	2007-11-01	20216   	JGI             	Laccaria bicolor
+33178  	ASPTE.1 	2007-04-01	10404   	Broad_Institute 	Aspergillus terreus
+36911  	CLALS.1 	2007-04-01	5937    	Broad_Institute 	Clavispora lusitaniae
+36914  	LODEL.1 	2007-04-01	5779    	Broad_Institute 	Lodderomyces elongisporus
+38033  	CHAGB.1 	2007-04-01	11074   	Broad_Institute 	Chaetomium globosum
+40559  	BOTFU.1 	2007-04-01	16400   	Broad_Institute 	Botrytis fuckeliana
+42374  	CANDU.1 	2007-04-01	6588    	Fungal_Genomes  	Candida dubliniensis
+51453  	TRIRE.1 	2007-04-01	9128    	JGI             	Trichoderma reesei
+64495  	RHIOR.1 	2007-04-01	16979   	Broad_Institute 	Rhizopus oryzae
+109871 	BATDE.1 	2007-04-01	8737    	Broad_Institute 	Batrachochytrium dendrobatidis
+114524 	SACKU.1 	2007-04-01	6013    	Fungal_Genomes  	Saccharomyces kudriavzevii
+114525 	SACMI.1 	2007-04-01	5679    	Fungal_Genomes  	Saccharomyces mikatae
+117187 	GIBMO.1 	2007-04-01	14161   	Broad_Institute 	Gibberella moniliformis
+140110 	NECHA.1 	2007-11-01	15678   	JGI             	Nectria haematococca
+148305 	MAGGR.1 	2007-04-01	12693   	Broad_Institute 	Magnaporthe grisea
+162425 	EMENI.1 	2007-04-01	9400    	NCBI            	Emericella nidulans
+284811 	ASHGO.2 	2007-04-01	4717    	NCBI            	Ashbya gossypii ATCC 10895
+284812 	SCHPO.1 	2006-06-01	4965    	integr8         	Schizosaccharomyces pombe (strain 972/ATCC 24843)
+321614 	PHANO.1 	2007-04-01	16493   	Broad_Institute 	Phaeosphaeria nodorum SN15
+330879 	ASPFU.1 	2007-11-01	9629    	Broad_Institute 	Aspergillus fumigatus
+331117 	NEOFI.1 	2007-04-01	10405   	TIGR            	Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181)
+336963 	UNCRE.1 	2007-04-01	7771    	Broad_Institute 	Uncinocarpus reesii (strain UAMH 1704)
+365493 	365493.1	2007-04-01	5514    	JGI             	Sporobolomyces roseus IAM 13481
+383855 	383855.1	2007-11-01	10308   	JGI             	Mycosphaerella fijiensis CIRAD86
+436907 	VANPO.1 	2007-11-01	5467    	YGOB            	Vanderwaltozyma polyspora (strain ATCC 22028 / DSM 70294)
+561896 	POSPM.1 	2007-11-01	16929   	JGI             	Postia placenta (strain ATCC 44394 / Madison 698-R)
