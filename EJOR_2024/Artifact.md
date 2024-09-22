@@ -46,6 +46,7 @@ Experiments in the article "A dynamic programming algorithm for a maximum $s$-cl
   - [NetworkX](https://networkx.org/)
   - [YAML](https://yaml.org/)
   - [pandas](https://pandas.pydata.org/)
+  - [pyvis](https://pyvis.readthedocs.io/en/latest/index.html)
 
 
 #### Selected contents
