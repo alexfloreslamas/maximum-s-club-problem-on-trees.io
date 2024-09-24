@@ -24,7 +24,7 @@ Experiments in the article "A dynamic programming algorithm for a maximum $s$-cl
 **Artifact** The tool we used for the experiments for the paper submitted to [European Journal of Operational Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research)
 
 - [Download as a zip file](./EJOR_2024_Tool/EJOR_2024_Tool.zip)
-- [Check it on GitHub](https://github.com/alexfloreslamas/maximum-s-club-set-on-trees.io/tree/main/EJOR_2024/EJOR_2024_Tool/EJOR_2024_Tool)
+- [Check it on GitHub](https://github.com/alexfloreslamas/EJOR_2024_Tool)
 
 **Reproducibility of results**
 
