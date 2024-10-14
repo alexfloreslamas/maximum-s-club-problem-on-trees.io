@@ -1,4 +1,4 @@
-File	Diameter	Max_DsT_|S|	Max_DsT_time	Diameter	Schäfer_|S|	Schäfer_time
+File	Diameter	DPsC_|S|	DPsC_time	Diameter	Schäfer_|S|	Schäfer_time
 ./Input/Test/Test/random_300_000.gml	10	105	9.497873783111570	10	105	1022.6843740940100
 ./Input/Test/Test/random_300_000.gml	100	5846	17.304615020752000	100	5846	1439.4200592041000
 ./Input/Test/Test/random_300_000.gml	500	73538	74.76897811889650	500	73538	5989.8246257305100

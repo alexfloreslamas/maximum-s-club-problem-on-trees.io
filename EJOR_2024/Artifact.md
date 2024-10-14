@@ -62,9 +62,9 @@ See [Script files and folder structure](#script-files-and-folder-structure) for 
 
 - `/EJOR_2024_Tool/src/Algorithms/EJOR_2024/Schafer`
 
-*Max-DsT implementation:*
+*DPsC implementation:*
 
-- `/EJOR_2024_Tool/src/Algorithms/EJOR_2024/Max_DsT`
+- `/EJOR_2024_Tool/src/Algorithms/EJOR_2024/DPsC`
 
 *I / O folders:*
 
@@ -138,11 +138,11 @@ In the above example, we call the `main.py` file with the parameters of `EJOR_20
     |   |   |-- abstract_benchmark_tester.py
     |   |   |-- tree_s_club_s_club_tester.py
     |   |-- Testing
-    |       |-- run_Schafers_and_Max_DsT.py
+    |       |-- run_Schafers_and_DPsC.py
     |-- src
         |-- Algorithms
         |   |-- EJOR_2024
-        |   |   |-- Max_DsT
+        |   |   |-- DPsC
         |   |   |   |-- downward_sweep.py
         |   |   |   |-- dp_msc_t_updated.py
         |   |   |   |-- upward_sweep_updated.py

@@ -1,4 +1,4 @@
-File	Diameter	Max_DsT_|S|	Max_DsT_time	Diameter	Schäfer_|S|	Schäfer_time
+File	Diameter	DPsC_|S|	DPsC_time	Diameter	Schäfer_|S|	Schäfer_time
 ./Input/Test/Test/chain_10_000.gml	10	11	0.5584721565246582	10	11	1.5289220809936523
 ./Input/Test/Test/chain_10_000.gml	100	101	4.896925926208496	100	101	12.66880488395691
 ./Input/Test/Test/chain_10_000.gml	1000	1001	45.24928903579712	1000	1001	602.9626970291138

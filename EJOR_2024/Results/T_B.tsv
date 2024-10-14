@@ -1,4 +1,4 @@
-File	Diameter	Max_DsT_|S|	Max_DsT_time	Diameter	Schäfer_|S|	Schäfer_time
+File	Diameter	DPsC_|S|	DPsC_time	Diameter	Schäfer_|S|	Schäfer_time
 ./Input/Test/Test/balanced_2_16.gml	5	14	2.04459810256958	5	14	117.92998719215392
 ./Input/Test/Test/balanced_2_16.gml	10	94	1.987032175064087	10	94	121.77080130577087
 ./Input/Test/Test/balanced_2_16.gml	15	510	1.9811489582061768	15	510	125.82614398002625

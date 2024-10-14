@@ -67,7 +67,7 @@ We implemented both algorithms in Python[^4] 3.10 and the Python package Network
 
 |           |                                       | Running time                  | in seconds                    |                                                               |
 | --------- | ------------------------------------- | ----------------------------- | ----------------------------- | ------------------------------------------------------------- |
-| *Row*     | *Graph*                               | $t_{\text{Schäfer}}$          | $t_{\text{Max-D}k\text{T}}$   | $\frac{t_{\text{Schäfer}}}{t_{\text{Max-D}k\text{T}}}$        |
+| *Row*     | *Graph*                               | $t_{\text{Schäfer}}$          | $t_{\text{DP}s\text{C}}$  | $\frac{t_{\text{Schäfer}}}{t_{\text{DP}s\text{C}}}$       |
 | 1         | ${\cal T}_{22-16}$                   | $132.4492$                    | $60.8545$                     | $2.1$                                                         |
 | 2         | $T_D,\; k = 4$                        | $109.9832$                    | $1.8577$                      | $59.2$                                                        |
 | 3         | $T_D,\; k = 5$                        | $116.5945$                    | $1.5734$                      | $74.1$                                                        |
@@ -133,7 +133,7 @@ We implemented both algorithms in Python[^4] 3.10 and the Python package Network
 		padding: 0.5rem;
 		text-align: center;
 	}
-
+	
 	p {
 		text-align: justify;
 	}
