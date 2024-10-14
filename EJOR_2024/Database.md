@@ -15,7 +15,7 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 ## Description
 
-This webpage contains the dataset for the experiments in the article "A dynamic programming algorithm for a maximum $s$-club set on trees". This paper is currently under consideration for acceptance to [Discrete Applied Mathematics](https://www.sciencedirect.com/journal/discrete-applied-mathematics).
+This webpage contains the dataset for the experiments in the article "A dynamic programming algorithm for a maximum $s$-club set on trees". This paper is currently under consideration for acceptance to [European Journal of Operational Research](https://www.sciencedirect.com/journal/european-journal-of-operational-research).
 
 ---
 
