@@ -2,7 +2,7 @@
 src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
-# **Experiments:** 'A dynamic programming algorithm for a maximum $s$-club set on trees'
+# **Experiments:** 'A dynamic programming algorithm for the maximum $s$-club problem on trees'
 
 - [Home Page](../index.md)
 - [Artifact Page](./Artifact.md)
@@ -16,7 +16,7 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 ## Description 
 
-Experiments in the article "A dynamic programming algorithm for a maximum $s$-club set on trees" were done using [EJOR\_2024\_Tool (artifact)](./Artifact.md) and the files in this [database](./Database.md).
+Experiments in the article "A dynamic programming algorithm for the maximum $s$-club problem on trees" were done using [EJOR\_2024\_Tool (artifact)](./Artifact.md) and the files in this [database](./Database.md).
 
 ## Using the EJOR\_2024\_Tool
 

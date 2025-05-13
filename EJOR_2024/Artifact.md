@@ -2,7 +2,7 @@
 src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML,
 https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
-# **Artifact page:** 'A dynamic programming algorithm for a maximum $s$-club set on trees'
+# **Artifact page:** 'A dynamic programming algorithm for the maximum $s$-club problem on trees'
 
 - [Home Page](../index.md)
 - [Database Page](Database.md)
@@ -16,7 +16,7 @@ https://vincenttam.github.io/javascripts/MathJaxLocal.js"></script>
 
 ## Description
 
-Experiments in the article "A dynamic programming algorithm for a maximum $s$-club set on trees" were done using the code in this page. This artifact contrains source code (in Python) for the implementations of the Schäfer’s[^1] and Max-D*s*T[^2] algorithms.
+Experiments in the article "A dynamic programming algorithm for the maximum $s$-club problem on trees" were done using the code in this page. This artifact contrains source code (in Python) for the implementations of the Schäfer’s[^1] and Max-D*s*T[^2] algorithms.
 
 
 ## Assets
